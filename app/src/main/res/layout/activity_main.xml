@@ -30,5 +30,10 @@
         android:layout_height="wrap_content"
         android:text="hi marilyn"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hi Cassandra 1"/>
+
 
 </LinearLayout>
